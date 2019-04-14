@@ -1,2 +1,2 @@
 # 60s2-DCpower
-assembly
+assembly language
