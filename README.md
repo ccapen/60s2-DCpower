@@ -1,6 +1,6 @@
 # 60s2-DCpower
 
-assembly language
+pure assembly language
 
 IN 6-13v
 
